@@ -1,3 +1,4 @@
 venv/
 .venv/
 Projeto-comp3-montecarlo-hopfield/
+__pycache__
